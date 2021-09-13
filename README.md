@@ -13,8 +13,7 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 **Tenemos la clase SILVA y implemtamamos  GLEventListener**
 
 - GLEventListener es una Interfaz que provee acceso para realizar funciones de dibujado, consta de 4 métodos: init(GLAutoDrawable g),display(GLAutoDrawable g) entre otros. 
-- tambien tenemos GLCanvas que permiten realizar las funciones de dibujado, puede realizar el dibujado a través de la interface GLEventListener
-
+- Tambien tenemos GLCanvas que permiten realizar las funciones de dibujado, puede realizar el dibujado a través de la interface GLEventListener, todo esto viene en la libreria JOGL (OpenGL)
 ![Captura de pantalla (1289) png](https://user-images.githubusercontent.com/71051834/133153242-c8180245-8aa1-4803-86b9-6f561f9398cc.jpg)
 
 ![Captura de pantalla (1283) png](https://user-images.githubusercontent.com/71051834/133092890-e237ad87-f8e2-42cf-8024-603fdd05e286.jpg)
