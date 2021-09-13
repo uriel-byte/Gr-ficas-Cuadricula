@@ -7,7 +7,7 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 - El color de fondo y color de los puntos es libre.
 > Este ejercicio se hizo con el lenguaje JAVA, se utilizo NetBeans para dicha realizacion del ejercicio.
 
-
+**Importamos las clases**
 ![Captura de pantalla (1279) png](https://user-images.githubusercontent.com/71051834/133091083-c7d19f27-0684-4755-bbf0-3a7b22abbdcf.jpg)
 
 
