@@ -1,4 +1,4 @@
-# Graficas-Cuadricula
+# :thinking: Graficas-Cuadricula
 ## Descripcion.
 Generar la siguiente grafica cumpliendo las siguientes condiciones:
 - Cuadricula. Pantalla completa
