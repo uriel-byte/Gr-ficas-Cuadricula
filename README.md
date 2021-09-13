@@ -18,10 +18,9 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 ![Captura de pantalla (1289) png](https://user-images.githubusercontent.com/71051834/133153242-c8180245-8aa1-4803-86b9-6f561f9398cc.jpg)
 
 **en esta parte public void init(GLAutoDrawable drawable) podemos cambiar el color de fondo**
-**public void display(GLAutoDrawable drawable) es para las caracteristcas de las lineas, como el groso de las lineas, el color, y el tamañp del cuadro 
-![Captura de pantalla (1283) png](https://user-images.githubusercontent.com/71051834/133092890-e237ad87-f8e2-42cf-8024-603fdd05e286.jpg)
 
-![Captura de pantalla (1284) png](https://user-images.githubusercontent.com/71051834/133093077-6ab9a793-f748-4872-9006-f6907fa7aa2c.jpg)
+**public void display(GLAutoDrawable drawable) es para las caracteristcas de las lineas, como el groso de las lineas, el color, y el tamañp del cuadro**
+![Captura de pantalla (1290) png](https://user-images.githubusercontent.com/71051834/133164399-f09572f1-cf58-4566-a228-57aea42ae486.jpg)
 
 **Este es el resultado**
 ![Captura de pantalla (1285)](https://user-images.githubusercontent.com/71051834/133093470-6a8b48c2-fb2b-46cf-ae3a-d36b24ef6ada.png)
