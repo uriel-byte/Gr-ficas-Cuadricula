@@ -1,1 +1,1 @@
-# Gr-ficas-Cuadricula
+# Graficas-Cuadricula
