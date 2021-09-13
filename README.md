@@ -17,9 +17,9 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 - Esta parte es para la ventana principal 
 ![Captura de pantalla (1289) png](https://user-images.githubusercontent.com/71051834/133153242-c8180245-8aa1-4803-86b9-6f561f9398cc.jpg)
 
-**en esta parte public void init(GLAutoDrawable drawable) podemos cambiar el color de fondo**
+**En esta parte public void init(GLAutoDrawable drawable) podemos cambiar el color de fondo**
 
-**public void display(GLAutoDrawable drawable) es para las caracteristcas de las lineas, como el groso de las lineas, el color, y el tamañp del cuadro**
+**Public void display(GLAutoDrawable drawable) es para las caracteristcas de las lineas, como el groso de las lineas, el color, y el tamaño del cuadro**
 ![Captura de pantalla (1290) png](https://user-images.githubusercontent.com/71051834/133164399-f09572f1-cf58-4566-a228-57aea42ae486.jpg)
 
 **Este es el resultado**
