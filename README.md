@@ -10,9 +10,11 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 **Importamos las librerias**
 ![Captura de pantalla (1279) png](https://user-images.githubusercontent.com/71051834/133091083-c7d19f27-0684-4755-bbf0-3a7b22abbdcf.jpg)
 
-**Tenemos la clase SILVA y implemtamamos  GLEventListener **
+**Tenemos la clase SILVA y implemtamamos  GLEventListener**
+
 -GLEventListener es una Interfaz que provee acceso para realizar funciones de dibujado, consta de 4 métodos: init(GLAutoDrawable g),display(GLAutoDrawable g) entre otros. 
-![Captura de pantalla (1281) png](https://user-images.githubusercontent.com/71051834/133092556-b02c0825-a95a-4dd7-9ed0-976de0b3757a.jpg)
+
+![Captura de pantalla (1289) png](https://user-images.githubusercontent.com/71051834/133153242-c8180245-8aa1-4803-86b9-6f561f9398cc.jpg)
 
 ![Captura de pantalla (1283) png](https://user-images.githubusercontent.com/71051834/133092890-e237ad87-f8e2-42cf-8024-603fdd05e286.jpg)
 
