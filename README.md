@@ -6,3 +6,11 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 - Deberá realizar la cuadricula UTILIZANDO SOLAMENTE PUNTOS, NO LINEAS, NO POLIGONOS, NO FIGURAS.
 - El color de fondo y color de los puntos es libre.
 > Este ejercicio se hizo con el lenguaje JAVA, se utilizo NetBeans para dicha realizacion del ejercicio.
+![Captura de pantalla (1279) png](https://user-images.githubusercontent.com/71051834/133091083-c7d19f27-0684-4755-bbf0-3a7b22abbdcf.jpg)
+
+
+![Captura de pantalla (1281) png](https://user-images.githubusercontent.com/71051834/133092556-b02c0825-a95a-4dd7-9ed0-976de0b3757a.jpg)
+
+![Captura de pantalla (1283) png](https://user-images.githubusercontent.com/71051834/133092890-e237ad87-f8e2-42cf-8024-603fdd05e286.jpg)
+
+![Captura de pantalla (1284) png](https://user-images.githubusercontent.com/71051834/133093077-6ab9a793-f748-4872-9006-f6907fa7aa2c.jpg)
