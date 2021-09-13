@@ -17,4 +17,5 @@ Generar la siguiente grafica cumpliendo las siguientes condiciones:
 
 ![Captura de pantalla (1284) png](https://user-images.githubusercontent.com/71051834/133093077-6ab9a793-f748-4872-9006-f6907fa7aa2c.jpg)
 
+**Este es el resultado**
 ![Captura de pantalla (1285)](https://user-images.githubusercontent.com/71051834/133093470-6a8b48c2-fb2b-46cf-ae3a-d36b24ef6ada.png)
